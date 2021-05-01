@@ -1,10 +1,5 @@
 # Abbie Dyck
 # 110046150
-# I am aware that this program isn't complete. Yes, it's possible I procrastinated with these programs
-# and didn't give myself enough time to finish. Hopefully q1 and q2 are correct, and I can do better on the bonus
-# (that is if I don't procrastinate again and actually get them done)
-# If you're still reading here, thanks for being a marker for WPCC. I appreciate that you all have volunteered your time
-# for the rest of us to gain some experience.
 
 def fixedChecker(match):
     details = match.split(",")
